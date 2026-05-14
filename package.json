@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mobilewright": "^0.0.33"
+  },
+  "devDependencies": {
+    "@mobilewright/test": "^0.0.33"
+  }
+}
